@@ -1,0 +1,9 @@
+.img-carrossel-um{
+  object-fit: cover; /*ajustar a imagem ao tamanho da tela*/
+  object-position: 0 80%;
+  height: 400px;
+}
+.img-carrossel-dois{
+  object-fit: cover; /*ajustar a imagem ao tamanho da tela*/
+  height: 400px;
+}
