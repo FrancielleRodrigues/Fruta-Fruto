@@ -2,6 +2,7 @@
   object-fit: cover; /*ajustar a imagem ao tamanho da tela*/
   object-position: 0 80%;
   height: 400px;
+
 }
 .img-carrossel-dois{
   object-fit: cover; /*ajustar a imagem ao tamanho da tela*/
@@ -10,3 +11,15 @@
 .fonte-titulo {
   font-family: 'Pacifico', cursive;
   }
+.cor-especial {
+  color: darkred;
+  }
+
+.btn-cor-especial{
+  background-color: rgb(139, 0, 0);
+  color: white;
+}
+
+.borda-cor-especial{
+  border-color: darkred;
+}
